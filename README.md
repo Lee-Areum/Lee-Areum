@@ -11,7 +11,6 @@ that I've used more than once
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%35-4479A1?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-7F52FF?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vuejs&logoColor=white"/>
 </div>
