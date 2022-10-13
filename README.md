@@ -34,5 +34,5 @@ If you want to know more about me visit here
 <!--https://newwisdom.tistory.com/12-->
 
 ## 목표
-[10.13] 백준 - 1일 1문제를 풀자 </br>
-[10.13] 블로그 - 1일 1포스트를 쓰자
+[2022.10.13] 백준 - 1일 1문제를 풀자 </br>
+[2022.10.13] 블로그 - 1일 1포스트를 쓰자
