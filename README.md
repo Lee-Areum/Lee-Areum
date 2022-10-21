@@ -32,7 +32,3 @@ If you want to know more about me visit here
 
 <!--https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-->
 <!--https://newwisdom.tistory.com/12-->
-
-## 목표
-[2022.10.13] 백준 - 1일 1문제를 풀자 </br>
-[2022.10.13] 블로그 - 1일 1포스트를 쓰자
